@@ -1,5 +1,5 @@
 {
-  "name": "hubot-remind",
+  "name": "hubot-remind-resin",
   "description": "Remind to someone something...",
   "version": "0.1.5",
   "main": "./src/index.coffee",
